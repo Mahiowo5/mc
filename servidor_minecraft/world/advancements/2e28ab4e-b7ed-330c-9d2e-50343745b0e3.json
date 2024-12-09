@@ -271,7 +271,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-09 17:06:33 +0000"
+      "bread": "2024-12-09 17:06:33 +0000",
+      "golden_apple": "2024-12-09 18:41:29 +0000"
     },
     "done": false
   },
@@ -646,10 +647,19 @@
       "wither_skeleton": "2024-12-09 18:17:11 +0000",
       "zombie_villager": "2024-12-09 17:16:16 +0000",
       "skeleton": "2024-12-09 17:31:21 +0000",
+      "blaze": "2024-12-09 18:47:48 +0000",
       "cave_spider": "2024-12-09 17:31:58 +0000",
-      "zombie": "2024-12-09 17:10:23 +0000"
+      "zombie": "2024-12-09 17:10:23 +0000",
+      "spider": "2024-12-09 18:48:18 +0000",
+      "creeper": "2024-12-09 18:49:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-09 18:48:53 +0000"
+    },
+    "done": true
   },
   "defiledlands:recipes/misc/idol_sorrow": {
     "criteria": {
@@ -780,6 +790,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2024-12-09 17:30:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-09 18:48:26 +0000"
     },
     "done": true
   },
@@ -1107,6 +1123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-09 18:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2024-12-09 17:12:20 +0000"
@@ -1167,15 +1189,28 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-09 18:48:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-09 17:12:20 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-09 18:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2024-12-09 17:04:49 +0000",
+      "birch_forest": "2024-12-09 18:46:31 +0000",
       "beaches": "2024-12-09 17:04:30 +0000",
       "extreme_hills_with_trees": "2024-12-09 17:23:00 +0000",
       "forest_hills": "2024-12-09 17:21:17 +0000",
@@ -1244,6 +1279,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-12-09 17:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-09 18:45:07 +0000"
     },
     "done": true
   },
@@ -1394,6 +1435,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_the_recipe": "2024-12-09 17:05:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-09 18:48:53 +0000"
     },
     "done": true
   },
