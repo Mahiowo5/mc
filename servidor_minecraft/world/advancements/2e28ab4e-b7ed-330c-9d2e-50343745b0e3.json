@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-09 19:07:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_the_recipe": "2024-12-09 17:04:44 +0000"
@@ -271,6 +277,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-09 19:09:59 +0000",
       "bread": "2024-12-09 17:06:33 +0000",
       "golden_apple": "2024-12-09 18:41:29 +0000"
     },
@@ -712,6 +719,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_gold_nugget": "2024-12-09 17:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_the_recipe": "2024-12-09 19:10:02 +0000"
     },
     "done": true
   },
@@ -1351,6 +1364,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-09 17:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-12-09 19:10:02 +0000"
     },
     "done": true
   },
