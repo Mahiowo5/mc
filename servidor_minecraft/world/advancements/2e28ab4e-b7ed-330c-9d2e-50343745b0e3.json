@@ -1228,6 +1228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-09 18:55:11 +0000"
+    },
+    "done": true
+  },
   "familiarfauna:recipes/tools/bug_habitat": {
     "criteria": {
       "has_glass": "2024-12-09 17:30:02 +0000"
