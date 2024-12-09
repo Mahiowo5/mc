@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-09 18:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-09 17:05:26 +0000"
@@ -296,6 +302,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-09 17:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/speckled_melon": {
+    "criteria": {
+      "has_melon": "2024-12-09 18:15:24 +0000"
     },
     "done": true
   },
@@ -631,6 +643,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-12-09 18:17:11 +0000",
       "zombie_villager": "2024-12-09 17:16:16 +0000",
       "skeleton": "2024-12-09 17:31:21 +0000",
       "cave_spider": "2024-12-09 17:31:58 +0000",
@@ -1333,6 +1346,12 @@
   "mujmajnkraftsbettersurvival:iron_battleaxe": {
     "criteria": {
       "has_iron": "2024-12-09 17:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon_block": {
+    "criteria": {
+      "has_melon": "2024-12-09 18:15:24 +0000"
     },
     "done": true
   },
