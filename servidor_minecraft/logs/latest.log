@@ -3963,3 +3963,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [18:00:47] [Server thread/INFO] [antiqueatlas]: Sent Atlas #0 data to player Mahiowowowo
 [18:01:50] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id abyssalcraft:evilsheep
 [18:01:50] [Server thread/ERROR] [reccomplex]: Error loading entity with ID 'abyssalcraft:evilsheep'
+[18:07:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 has made the advancement [Take Aim, Chaps!]
+[18:11:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 has made the advancement [Isn't It Iron Pick]
