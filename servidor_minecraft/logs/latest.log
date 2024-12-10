@@ -3813,3 +3813,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [22:51:44] [Server thread/INFO] [STDERR]: [com.ferreusveritas.dynamictrees.entities.EntityFallingTree:setData:102]: 	at java.lang.Thread.run(Thread.java:750)
 [22:53:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 has made the advancement [The Bender of the 15th Century]
 [22:57:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zDrake90 moved wrongly!
+[23:01:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:01:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:01:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:01:58] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:02:01] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:02:01] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:03:51] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 102 and chunkZ 0...
+[23:03:51] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_forest_temple at {"x": 1558, "y": 0, "z": -12}...
+[23:03:54] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_forest_temple at {"x": 1558, "y": 0, "z": -12}.
+[23:03:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zDrake90 moved too quickly! -10.199310513656883,-0.0435357031871888,0.8712724548460642
+[23:03:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo moved too quickly! 4.972570956221034,-1.531487398201918,-8.796348844101232
+[23:03:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3194ms behind, skipping 63 tick(s)
+[23:04:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo moved wrongly!
+[23:06:33] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:06:33] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:06:33] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:06:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:06:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:06:36] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:02] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:03] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:05] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:07:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: zDrake90 moved wrongly!
+[23:07:17] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
