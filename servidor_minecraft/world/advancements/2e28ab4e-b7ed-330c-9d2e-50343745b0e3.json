@@ -525,6 +525,12 @@
     },
     "done": true
   },
+  "craftablechainmail:craft_iron_nugget": {
+    "criteria": {
+      "iron_nugget": "2024-12-10 04:17:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 17:09:55 +0000"
@@ -1455,10 +1461,12 @@
     "criteria": {
       "forest": "2024-12-09 17:04:49 +0000",
       "birch_forest": "2024-12-09 18:46:31 +0000",
+      "swampland": "2024-12-10 04:13:39 +0000",
       "beaches": "2024-12-09 17:04:30 +0000",
       "extreme_hills_with_trees": "2024-12-09 17:23:00 +0000",
       "forest_hills": "2024-12-09 17:21:17 +0000",
       "plains": "2024-12-09 17:02:35 +0000",
+      "birch_forest_hills": "2024-12-10 04:13:18 +0000",
       "ocean": "2024-12-09 17:05:43 +0000",
       "extreme_hills": "2024-12-09 17:07:37 +0000",
       "roofed_forest": "2024-12-09 20:27:06 +0000",
