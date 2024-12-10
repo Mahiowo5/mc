@@ -1492,6 +1492,7 @@
       "beaches": "2024-12-09 17:02:15 +0000",
       "forest_hills": "2024-12-09 17:33:50 +0000",
       "plains": "2024-12-09 17:02:23 +0000",
+      "taiga": "2024-12-10 23:07:53 +0000",
       "birch_forest_hills": "2024-12-10 04:13:17 +0000",
       "ocean": "2024-12-09 18:15:20 +0000",
       "extreme_hills": "2024-12-09 18:14:45 +0000",
@@ -1539,6 +1540,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-09 17:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-12-10 23:13:21 +0000"
     },
     "done": true
   },
