@@ -803,6 +803,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-10 04:02:54 +0000"
+    },
+    "done": true
+  },
   "mujmajnkraftsbettersurvival:crossbow": {
     "criteria": {
       "has_string": "2024-12-09 17:38:48 +0000"
