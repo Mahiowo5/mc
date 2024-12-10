@@ -3971,3 +3971,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo has made the advancement [Cover Me With Diamonds]
 [05:58:38] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
 [05:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 has made the advancement [The Scarlet Crusade]
+[06:05:48] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:49] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:50] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:52] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:53] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:54] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:55] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:57] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:05:58] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[06:14:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo lost connection: Disconnected
+[06:14:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo left the game
+[06:14:24] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zDrake90 lost connection: Disconnected
+[06:14:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 left the game
