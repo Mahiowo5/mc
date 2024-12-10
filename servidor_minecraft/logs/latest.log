@@ -3846,3 +3846,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [23:16:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mahiowowowo> zzzz
 [23:23:43] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
 [23:23:43] [Server thread/WARN] [reccomplex]: Failed to find preset (transformer preset): DesertAdjustment
+[23:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo has made the advancement [The Bender of the 15th Century]
+[23:43:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 has made the advancement [Enchanter]

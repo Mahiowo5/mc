@@ -745,6 +745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-10 23:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 17:04:38 +0000"
@@ -828,6 +834,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-12-09 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-10 23:43:19 +0000"
     },
     "done": true
   },
@@ -1691,6 +1703,12 @@
   "defiledlands:recipes/tools/scarlite_razor": {
     "criteria": {
       "has_material": "2024-12-10 05:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-12-10 23:43:00 +0000"
     },
     "done": true
   },
