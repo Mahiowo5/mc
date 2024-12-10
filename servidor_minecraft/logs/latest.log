@@ -3969,3 +3969,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [05:05:32] [Thread-143/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 2e28ab4e-b7ed-330c-9d2e-50343745b0e3.
 [05:34:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo has made the advancement [Take Aim, Chaps!]
 [05:46:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo has made the advancement [Cover Me With Diamonds]
+[05:58:38] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[05:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 has made the advancement [The Scarlet Crusade]

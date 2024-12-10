@@ -387,6 +387,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_reaver": {
+    "criteria": {
+      "has_material": "2024-12-10 05:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-09 17:04:38 +0000"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_item": "2024-12-10 06:00:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-09 17:45:48 +0000"
@@ -908,6 +920,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-09 17:42:01 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/baubles/scarlite_ring": {
+    "criteria": {
+      "has_material": "2024-12-10 05:59:51 +0000"
     },
     "done": true
   },
@@ -1205,6 +1223,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/misc/calling_stone": {
+    "criteria": {
+      "has_material": "2024-12-10 05:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
     "criteria": {
       "has_planks": "2024-12-10 04:25:51 +0000"
@@ -1361,6 +1385,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/concussion_smasher": {
+    "criteria": {
+      "has_material": "2024-12-10 05:59:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-12-09 20:57:36 +0000"
@@ -1376,6 +1406,12 @@
   "mujmajnkraftsbettersurvival:diamond_spear": {
     "criteria": {
       "has_diamond": "2024-12-09 17:25:22 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:main/scarlite": {
+    "criteria": {
+      "scarlite": "2024-12-10 05:59:51 +0000"
     },
     "done": true
   },
@@ -1539,6 +1575,12 @@
     },
     "done": true
   },
+  "defiledlands:recipes/tools/scarlite_razor": {
+    "criteria": {
+      "has_material": "2024-12-10 05:59:51 +0000"
+    },
+    "done": true
+  },
   "wolfarmor:recipes/combat/iron_wolf_armor": {
     "criteria": {
       "has_the_ingredients": "2024-12-09 17:16:22 +0000"
@@ -1632,6 +1674,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-09 20:54:20 +0000"
+    },
+    "done": true
+  },
+  "defiledlands:recipes/misc/healing_pad": {
+    "criteria": {
+      "has_material": "2024-12-10 05:59:51 +0000"
     },
     "done": true
   },

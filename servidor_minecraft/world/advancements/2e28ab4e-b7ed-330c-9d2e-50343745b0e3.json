@@ -883,6 +883,12 @@
     },
     "done": true
   },
+  "wolfarmor:recipes/combat/diamond_wolf_armor": {
+    "criteria": {
+      "has_the_ingredients": "2024-12-10 05:55:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-09 17:30:02 +0000"
@@ -1639,6 +1645,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_at_least_9_diamond": "2024-12-10 05:55:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "entered_water": "2024-12-09 17:02:33 +0000"
@@ -1732,6 +1744,12 @@
   "defiledlands:recipes/material/ravaging_ingot": {
     "criteria": {
       "has_material": "2024-12-09 17:22:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_the_recipe": "2024-12-10 05:55:27 +0000"
     },
     "done": true
   },
