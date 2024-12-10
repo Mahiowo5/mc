@@ -1,3 +1,22 @@
 {
-  "parties:9": {}
+  "parties:9": {
+    "0:10": {
+      "members:9": {
+        "0:10": {
+          "uuid:8": "9d605463-079b-3c27-b345-5939b3ba69ef",
+          "status:8": "MEMBER"
+        },
+        "1:10": {
+          "uuid:8": "2e28ab4e-b7ed-330c-9d2e-50343745b0e3",
+          "status:8": "OWNER"
+        }
+      },
+      "partyID:3": 0,
+      "properties:10": {
+        "betterquesting:10": {
+          "name:8": "SYDA"
+        }
+      }
+    }
+  }
 }

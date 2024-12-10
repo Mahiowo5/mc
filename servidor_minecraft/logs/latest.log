@@ -3701,3 +3701,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'lycanitesmobs:belpharm'
 [21:53:34] [Server thread/INFO] [RLTweakerASM]: Patch exists for pw.prok.realbench.WorkbenchInventory
 [21:53:34] [Server thread/INFO] [RLTweakerASM]: Writing class pw.prok.realbench.WorkbenchInventory with flags MAXS | FRAMES
 [21:53:34] [Server thread/INFO] [RLTweaker]: HookRealBench reflected successfully!
+[22:00:42] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 204 and chunkZ 51...
+[22:00:42] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": 3111, "y": 0, "z": 628}...
+[22:00:44] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id fnar:dungeon_swamp_builtin_custom_loot at {"x": 3111, "y": 0, "z": 628}.
+[22:02:48] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type Netherrack spawned at [ 3304 | 520 ], underground: false
+[22:03:05] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4474ms behind, skipping 89 tick(s)
+[22:03:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo moved too quickly! 0.715949390876176,1.0,-10.023903804079282
+[22:12:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[22:12:48] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
