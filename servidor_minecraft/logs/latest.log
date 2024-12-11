@@ -42,3 +42,23 @@
 [00:15:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo moved wrongly!
 [00:15:26] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo moved wrongly!
 [00:26:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <zDrake90> dd
+[00:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mahiowowowo> zzz
+[00:43:30] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:30] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:41] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:41] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:42] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:42] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:43] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:43] [Server thread/WARN] [firstaid]: Failed to lookup healer for item net.minecraft.item.ItemAir@57a5b03
+[00:43:53] [Server thread/INFO] [antiqueatlas]: Created new marker #3"gui.antiqueatlas.marker.tomb zDrake90"@(2155, 607)
+[00:43:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 was killed by magic
+[00:43:55] [Server thread/INFO] [antiqueatlas]: Created new marker #2"gui.antiqueatlas.marker.tomb Mahiowowowo"@(2156, 605)
+[00:43:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo was killed by magic
+[00:43:56] [Thread-278/INFO] [STDOUT]: [com.lycanitesmobs.LycanitesMobs:logInfo:278]: [LycanitesMobs] [Info] [] Online familiars loaded successfully for 2e28ab4e-b7ed-330c-9d2e-50343745b0e3.
+[00:43:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: zDrake90 lost connection: Disconnected
+[00:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: zDrake90 left the game
+[00:43:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mahiowowowo lost connection: Disconnected
+[00:43:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mahiowowowo left the game
+[00:44:22] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
+[00:44:22] [Server thread/INFO] [antiqueatlas]: Saving local markers data to NBT
